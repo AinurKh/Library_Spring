@@ -1,4 +1,4 @@
-package main.config;
+package projects.config;
 
 import jakarta.servlet.DispatcherType;
 import jakarta.servlet.FilterRegistration;
